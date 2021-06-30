@@ -2,8 +2,11 @@
 
 Radar rules for ESLint to detect bugs and suspicious patterns in your code.
 
-This is a currently maintained fork of
-[SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs).
+**_This is a fork of [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs)
+created at a time when its support of modern ESLint versions had stalled.
+Although I intend to keep this project in case they are no longer able to
+maintain and we need such a fork again, for now, I would encourage pegging to
+sonarjs as they have resumed support and are undertaking some development._**
 
 ## Rules
 
